@@ -1,5 +1,6 @@
 Lagi belajar Branch
- ^belum bisa konflik
+
+ ^ coba liat kalo ada konflik 
 - habis tu belajat fork
   * keren kaya bercabang gitu
 - git
