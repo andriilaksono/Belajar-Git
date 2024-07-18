@@ -1,5 +1,5 @@
 Lagi belajar Branch
-
+ ^belum bisa konflik
 - habis tu belajat fork
   * keren kaya bercabang gitu
 - git
