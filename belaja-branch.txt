@@ -1,4 +1,6 @@
 Lagi belajar Branch
+
 - habis tu belajat fork
+  * keren kaya bercabang gitu
 - git
 - udah 
